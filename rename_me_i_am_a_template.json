@@ -2,7 +2,7 @@
 	"name": "Hello World",
 	"description": "Custom Widget Template",
 	"eula": "",
-	"vendor": "Who created me?",
+	"vendor": "Santhosh",
 	"license": "",
 	"id": "com.sap.sample.template.0",
 	"newInstancePrefix": "WidetTemplate",
